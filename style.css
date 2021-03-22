@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 1000px;
+}
+
+.topContainer{
+	background-color: #BEE1F4;
+	text-align: center;
+	padding-top: 100px;
+	position: relative;
+	color: #276678;
+}
+.topContainer p{
+	padding:5px;
+}
+h1{
+	font-family: 'Satisfy', cursive;
+	font-size: 3em;
+	margin: 20px;
+	color:#276678;
+}
+h3{
+	font-family: 'Roboto', sans-serif;
+	color: #f6f5f5;
+	display: inline-block;
+}
+.middleContainer{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+}
+.bottomContainer{
+	background-color: yellow;
+	height: 200px;
+	width: 200px;
+}
+.navBar{
+	background-color: #1687a7;
+	position: absolute;
+	top:0;
+	width: 100%;
+	height:50px;
+	position:fixed;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.navBar a{
+	float: right;
+	width: 10%;
+	position: absolute;
+	top:30%;
+	right:5%;
+	color: #f6f5f5;
+	text-decoration: none;
+}
+a:hover{
+	color: #276678;
+}
+.navBar button{
+	margin-top: 20px;
+	height: 10px;
+	color: #f6f5f5;
+	background-color: #1687a7;
+	float: right;
+	width: 10%;
+	font-family: 'Roboto', sans-serif;
+	border:0;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+.contactBar{
+	width:5%;
+	height:20%;
+	background-color: #1687a7;
+	display: block;
+	position: absolute;
+	left:0;
+	top:50%;
+	margin: auto;
+	position: fixed;
+	
+}
+.contactBar img{
+	width: 100%;
+}
+
+.backgroundImg{
+	width: 50%;
+	padding: 0;
+}
+img:hover{
+	background-color: #d3e0ea;
+	color: #d3e0ea;
+}
+

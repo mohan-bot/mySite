@@ -1,0 +1,55 @@
+
+body{
+	background-color:#d3e0ea;
+	font-family:'Open Sans', sans-serif;
+	width: 80%;
+	margin: auto;
+	padding-bottom: 150px;
+	color: #1687a7;
+	font-weight: bold;
+}
+
+
+.intro{
+	text-align: center;
+	margin: auto;
+	color: #536162;
+}
+.image{
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	display: block;
+}
+
+img{
+	width:30px;
+}
+
+h3{
+	text-decoration: underline;
+	color: #276678;
+	font-weight: bold;
+}
+
+.contacts div{
+	align-content: center;
+	float: left;
+	width:33.3%;
+	font-size: 1.5em;
+	
+	box-sizing: border-box;
+
+}
+
+.contacts a{
+	display: block;
+	color: #28527a;
+	text-decoration: none;
+}
+a:hover{
+	color:red;
+
+}
+
+
