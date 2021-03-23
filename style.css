@@ -87,6 +87,7 @@ h3{
 }
 .bottom div{
 	font-size: 2vw;
+	text-decoration: none;
 
 	color: #276678;
 	float: left;
@@ -97,4 +98,6 @@ h3{
 a:hover{
 	color: #ff75a0;
 }
-
+a:visited{
+	color:#276678;
+}
